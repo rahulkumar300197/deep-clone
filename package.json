@@ -1,6 +1,6 @@
 {
   "name": "clone-deep-js",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "keywords": [
     "copy object",
     "dereferance"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/rahulkumar300197/deep-clone.git"
   },
-  "author": "",
+  "author": "rahulkumar310197",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rahulkumar300197/deep-clone/issues"
